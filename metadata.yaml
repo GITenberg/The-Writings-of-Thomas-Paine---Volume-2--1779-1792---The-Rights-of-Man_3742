@@ -1,0 +1,38 @@
+_repo: The-Writings-of-Thomas-Paine---Volume-2--1779-1792---The-Rights-of-Man_3742
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Paine, Thomas
+    alias: Pain, Thomas
+    birthdate: 1737
+    deathdate: 1809
+    gutenberg_agent_id: '91'
+    url: http://www.gutenberg.org/2009/agents/91
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Paine
+  editor:
+    agent_name: Conway, Moncure Daniel
+    alias: Conway, M. D. (Moncure Daniel)
+    birthdate: 1832
+    deathdate: 1907
+    gutenberg_agent_id: '1283'
+    url: http://www.gutenberg.org/2009/agents/1283
+    wikipedia: http://en.wikipedia.org/wiki/Moncure_Daniel_Conway
+description: ''
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3742'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Causes'
+- !lcsh 'Political science'
+- !lcsh 'Great Britain -- Politics and government -- 1760-1820'
+- !lcsh 'Burke, Edmund, 1729-1797. Reflections on the revolution in France'
+- !lcc 'JC'
+- GITenberg
+title: 'The Writings of Thomas Paine — Volume 2 (1779-1792): The Rights of Man'
+url: http://www.gutenberg.org/ebooks/3742
