@@ -1,5 +1,8 @@
 _repo: The-Writings-of-Thomas-Paine---Volume-2--1779-1792---The-Rights-of-Man_3742
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Paine, Thomas
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1283
     wikipedia: http://en.wikipedia.org/wiki/Moncure_Daniel_Conway
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3742#The-Writings-of-Thomas-Paine---Volume-2--1779-1792---The-Rights-of-Man
 gutenberg_bookshelf: Banned Books from Anne Haight's list
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
